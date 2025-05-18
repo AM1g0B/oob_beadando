@@ -1,0 +1,5 @@
+Név	Szak	Neptun
+Ejnye Bejnye	Gazdaságinformatika	ABC123
+Szia Uram	Gazdaságinformatika	XYZ456
+Kókler Krisztián	Gazdaságinformatika	HTT404
+Kamu Ádám	Gazdaságinformatika	ASD789
