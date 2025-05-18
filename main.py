@@ -3,7 +3,7 @@ import datetime
 import os
 from abc import ABC, abstractmethod
 
-
+#Betöltés
 def load_hallgatok(fname: str = "adatok.txt") -> list[dict[str, str]]:
     
     here = os.path.dirname(__file__)
